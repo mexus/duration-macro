@@ -1,3 +1,6 @@
+//! [![crates.io](https://img.shields.io/crates/v/duration-macro.svg)](https://crates.io/crates/duration-macro)
+//! [![docs.rs](https://docs.rs/duration-macro/badge.svg)](https://docs.rs/duration-macro)
+//!
 //! Compile-time duration parsing.
 //!
 //! ```rust
