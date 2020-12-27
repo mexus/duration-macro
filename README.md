@@ -16,3 +16,5 @@ assert_eq!(duration!({100 * 2} ns), Duration::from_nanos(200));
 ```
 
 For more details, please see the [duration!] docs.
+
+License: MIT/Apache-2.0
