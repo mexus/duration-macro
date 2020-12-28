@@ -15,6 +15,6 @@ assert_eq!(duration!(100 ns), Duration::from_nanos(100));
 assert_eq!(duration!({100 * 2} ns), Duration::from_nanos(200));
 ```
 
-For more details, please see the [duration!] docs.
+For more details, please see the [duration!](https://docs.rs/duration-macro/*/duration_macro/macro.duration.html) docs.
 
 License: MIT/Apache-2.0
